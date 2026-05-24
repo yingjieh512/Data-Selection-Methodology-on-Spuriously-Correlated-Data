@@ -1,2 +1,2 @@
-# ucla-cs260D-final-project
-Research work for CS260D at UCLA
+# Data-Selection-Methodology-on-Spuriously-Correlated-Data
+Research work for data selection under spuriously correlated data
